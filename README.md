@@ -1,1 +1,1 @@
-# ai-big-data-course
+Notebooks of the course
